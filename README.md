@@ -14,7 +14,14 @@ Identify a location in the google map:
 ### STEP 2:
 Select a specific number of nodes with distance
 
-### STEP -> Write your own steps:
+### STEP 3:
+Create a dictionary with all the node pairs (keys) and their respective distances as the values
+
+### STEP 4:
+Implement the search algorithm by passing any node and f(node) to find the Best route.
+
+### STEP 5:
+Display the route sequence.
 
 
 ## ROUTE MAP
