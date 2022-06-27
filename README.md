@@ -30,8 +30,6 @@ Display the route sequence.
 #### Example map
 ![image](https://github.com/KHADAR134/dijkstra-s-shortest-path-algorithm/blob/main/IMG_20220506_214358.jpg)
 ## PROGRAM
-### EX.NO: 03
-### DATE: 10-05-2022
 ```python
 #DEVELOPED BY : SHAIK KHADAR BASHA
 #REGISTER NO: 212220230045
